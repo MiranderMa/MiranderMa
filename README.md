@@ -58,7 +58,7 @@ Now, I'm shifting gears 🚧 — adding **Data Engineering** and **Machine Learn
 ### 📫 Let’s Connect
 
 📩 DM me on GitHub  
-🔗 [LinkedIn](#) *(add your link)*  
+🔗 [LinkedIn](#) *(https://www.linkedin.com/in/mirander-m-aa49091b5/)*  
 ✨ Collaborations, mentorship, or just a chat – I’m open!
 
 ---
