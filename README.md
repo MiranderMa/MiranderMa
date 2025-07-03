@@ -16,7 +16,7 @@ Now, I'm shifting gears 🚧 — adding **Data Engineering** and **Machine Learn
 
 💬 Currently upskilling in:
 - 🤖 **Machine Learning**
-- ☁️ **Microsoft Azure Data Engineering (DP-203)** *(Certification in progress)*
+- ☁️ **Microsoft Fabric Data Engineer Associate Certification** *(Certification in progress)*
 
 I’m a curious, ambitious, and funny person who values peace and excellence. Whether it's late-night debugging or pixel-perfect dashboards—I'm all in.
 
