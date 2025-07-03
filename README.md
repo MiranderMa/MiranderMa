@@ -1,4 +1,5 @@
-![Mirander's Banner](https://img.shields.io/badge/Data%20Visualization%20Specialist-%23072447?style=for-the-badge&logo=datadog&logoColor=white)
+<!-- Banner or optional header -->
+![Mirander's GitHub Banner](https://img.shields.io/badge/Data%20Visualization%20Specialist-%23072447?style=for-the-badge&logo=datadog&logoColor=white)
 
 # 👋 Hello, I'm Mirander!
 
@@ -15,53 +16,45 @@ Now, I'm shifting gears 🚧 — adding **Data Engineering** and **Machine Learn
 
 💬 Currently upskilling in:
 - 🤖 **Machine Learning**
-- ☁️ **Microsoft Azure Fabric Data Engineer Associate Certification (DP-700)** *(Certification in progress)*
+- ☁️ **Microsoft Azure Data Engineering (DP-203)** *(Certification in progress)*
+
+I’m a curious, ambitious, and funny person who values peace and excellence. Whether it's late-night debugging or pixel-perfect dashboards—I'm all in.
 
 ---
 
-### 🛠️ Tech & Tools
+### 🧰 Tech Stack
 
 **Data & Visualization**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)
 
-**Data & Programming**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Programming & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-005CAA?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-blue?style=flat)
 
 **Cloud & Automation**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
-### 🧠 What Drives Me
+### 📊 GitHub Stats
 
-- 🤓 **Learning in Public** – Sharing progress and projects as I grow
-- 🧱 **Building with Purpose** – Every chart, table, and pipeline has to make sense
-- 💪 **Going the Extra Mile** – Excellence over shortcuts
-- 😄 **Staying True to Me** – Funny, focused, and peaceful – that’s my vibe
+![Mirander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirandermathenjwa&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Mirander's+GitHub+Stats)
 
----
-
-### 📈 Currently Working On
-
-- 🧠 ML study projects using real-world datasets
-- 🔧 Power BI dashboards with dynamic filters, story-driven UI/UX
-- ☁️ Azure pipeline practice (Data Factory, Synapse, Blob Storage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandermathenjwa&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Let’s Connect
 
 📩 DM me on GitHub  
-🔗 [LinkedIn](#) *(https://www.linkedin.com/in/mirander-m-aa49091b5/)*  
-✨ Collaborations, mentorship, or just a chat – I’m open!
+🔗 [LinkedIn](#) *(Add your link)*  
+✨ Collaborations, mentorship, or just a chat – I’m always open!
 
 ---
 
 _“Data tells a story. I'm here to help it speak clearly, loudly, and beautifully.”_
-
